@@ -1,2 +1,2 @@
 # Coursera_Capstone
-My first capstone project on Cousera
+The capstone project for the IBM Data Science Course on Coursera
